@@ -32,7 +32,7 @@
   template: `<div v-html="svgHtml" />`
 })
 
-*Defined in [icons/Jdenticon.ts:16](https://github.com/polkadot-js/ui/blob/435a9b3cd/packages/vue-identicon/src/icons/Jdenticon.ts#L16)*
+*Defined in [icons/Jdenticon.ts:16](https://github.com/polkadot-js/ui/blob/8d39fabad/packages/vue-identicon/src/icons/Jdenticon.ts#L16)*
 
 **`name`** Jdenticon
 
