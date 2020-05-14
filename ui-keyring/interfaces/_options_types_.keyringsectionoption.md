@@ -20,7 +20,7 @@
 
 • **key**: *string | null*
 
-*Defined in [packages/ui-keyring/src/options/types.ts:8](https://github.com/polkadot-js/ui/blob/a60d8fa00/packages/ui-keyring/src/options/types.ts#L8)*
+*Defined in [packages/ui-keyring/src/options/types.ts:8](https://github.com/polkadot-js/ui/blob/82315bd34/packages/ui-keyring/src/options/types.ts#L8)*
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 • **name**: *string*
 
-*Defined in [packages/ui-keyring/src/options/types.ts:9](https://github.com/polkadot-js/ui/blob/a60d8fa00/packages/ui-keyring/src/options/types.ts#L9)*
+*Defined in [packages/ui-keyring/src/options/types.ts:9](https://github.com/polkadot-js/ui/blob/82315bd34/packages/ui-keyring/src/options/types.ts#L9)*
 
 ___
 
@@ -36,4 +36,4 @@ ___
 
 • **value**: *string | null*
 
-*Defined in [packages/ui-keyring/src/options/types.ts:10](https://github.com/polkadot-js/ui/blob/a60d8fa00/packages/ui-keyring/src/options/types.ts#L10)*
+*Defined in [packages/ui-keyring/src/options/types.ts:10](https://github.com/polkadot-js/ui/blob/82315bd34/packages/ui-keyring/src/options/types.ts#L10)*

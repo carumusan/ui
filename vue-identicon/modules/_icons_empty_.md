@@ -21,7 +21,7 @@
   `
 })
 
-*Defined in [icons/Empty.ts:11](https://github.com/polkadot-js/ui/blob/a60d8fa00/packages/vue-identicon/src/icons/Empty.ts#L11)*
+*Defined in [icons/Empty.ts:11](https://github.com/polkadot-js/ui/blob/82315bd34/packages/vue-identicon/src/icons/Empty.ts#L11)*
 
 **`name`** Empty
 

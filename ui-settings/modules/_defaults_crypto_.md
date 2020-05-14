@@ -14,6 +14,11 @@
 
 • **CRYPTOS**: *[Option](_types_.md#option)[]* = [
   {
+    info: 'ecdsa',
+    text: 'ECDSA (ecdsa)',
+    value: 'ecdsa'
+  },
+  {
     info: 'ed25519',
     text: 'Edwards (ed25519)',
     value: 'ed25519'
@@ -25,4 +30,4 @@
   }
 ]
 
-*Defined in [defaults/crypto.ts:7](https://github.com/polkadot-js/ui/blob/a60d8fa00/packages/ui-settings/src/defaults/crypto.ts#L7)*
+*Defined in [defaults/crypto.ts:7](https://github.com/polkadot-js/ui/blob/82315bd34/packages/ui-settings/src/defaults/crypto.ts#L7)*
