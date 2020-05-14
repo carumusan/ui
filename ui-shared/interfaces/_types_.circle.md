@@ -21,7 +21,7 @@
 
 • **cx**: *number*
 
-*Defined in [types.ts:6](https://github.com/polkadot-js/ui/blob/8d39fabad/packages/ui-shared/src/icons/types.ts#L6)*
+*Defined in [types.ts:6](https://github.com/polkadot-js/ui/blob/a60d8fa00/packages/ui-shared/src/icons/types.ts#L6)*
 
 ___
 
@@ -29,7 +29,7 @@ ___
 
 • **cy**: *number*
 
-*Defined in [types.ts:7](https://github.com/polkadot-js/ui/blob/8d39fabad/packages/ui-shared/src/icons/types.ts#L7)*
+*Defined in [types.ts:7](https://github.com/polkadot-js/ui/blob/a60d8fa00/packages/ui-shared/src/icons/types.ts#L7)*
 
 ___
 
@@ -37,7 +37,7 @@ ___
 
 • **fill**: *string*
 
-*Defined in [types.ts:8](https://github.com/polkadot-js/ui/blob/8d39fabad/packages/ui-shared/src/icons/types.ts#L8)*
+*Defined in [types.ts:8](https://github.com/polkadot-js/ui/blob/a60d8fa00/packages/ui-shared/src/icons/types.ts#L8)*
 
 ___
 
@@ -45,4 +45,4 @@ ___
 
 • **r**: *number*
 
-*Defined in [types.ts:9](https://github.com/polkadot-js/ui/blob/8d39fabad/packages/ui-shared/src/icons/types.ts#L9)*
+*Defined in [types.ts:9](https://github.com/polkadot-js/ui/blob/a60d8fa00/packages/ui-shared/src/icons/types.ts#L9)*
