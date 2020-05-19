@@ -14,20 +14,20 @@
 
 • **CRYPTOS**: *[Option](_types_.md#option)[]* = [
   {
-    info: 'ecdsa',
-    text: 'ECDSA (ecdsa)',
-    value: 'ecdsa'
+    info: 'sr25519',
+    text: 'Schnorrkel (sr25519, recommended)',
+    value: 'sr25519'
   },
   {
     info: 'ed25519',
-    text: 'Edwards (ed25519)',
+    text: 'Edwards (ed25519, alternative)',
     value: 'ed25519'
   },
   {
-    info: 'sr25519',
-    text: 'Schnorrkel (sr25519)',
-    value: 'sr25519'
+    info: 'ecdsa',
+    text: 'ECDSA (BTC/ETH compatible)',
+    value: 'ecdsa'
   }
 ]
 
-*Defined in [defaults/crypto.ts:7](https://github.com/polkadot-js/ui/blob/b6909b132/packages/ui-settings/src/defaults/crypto.ts#L7)*
+*Defined in [defaults/crypto.ts:7](https://github.com/polkadot-js/ui/blob/b38301efa/packages/ui-settings/src/defaults/crypto.ts#L7)*
