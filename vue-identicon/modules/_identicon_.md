@@ -32,8 +32,8 @@
   },
   methods: {
     createData: function (): void {
-      this.iconSize = this.size || DEFAULT_SIZE;
-      this.type = this.theme;
+      this.iconSize = this.size as number || DEFAULT_SIZE;
+      this.type = this.theme as 'empty';
 
       this.recodeAddress();
     },
@@ -68,7 +68,7 @@
   }
 })
 
-*Defined in [Identicon.ts:48](https://github.com/polkadot-js/ui/blob/b38301efa/packages/vue-identicon/src/Identicon.ts#L48)*
+*Defined in [Identicon.ts:48](https://github.com/polkadot-js/ui/blob/2df46e88c/packages/vue-identicon/src/Identicon.ts#L48)*
 
 **`name`** Identicon
 

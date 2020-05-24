@@ -19,7 +19,7 @@
 
 • **abi**: *string*
 
-*Defined in [packages/ui-keyring/src/types.ts:11](https://github.com/polkadot-js/ui/blob/b38301efa/packages/ui-keyring/src/types.ts#L11)*
+*Defined in [packages/ui-keyring/src/types.ts:11](https://github.com/polkadot-js/ui/blob/2df46e88c/packages/ui-keyring/src/types.ts#L11)*
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 • **genesisHash**? : *string | null*
 
-*Defined in [packages/ui-keyring/src/types.ts:12](https://github.com/polkadot-js/ui/blob/b38301efa/packages/ui-keyring/src/types.ts#L12)*
+*Defined in [packages/ui-keyring/src/types.ts:12](https://github.com/polkadot-js/ui/blob/2df46e88c/packages/ui-keyring/src/types.ts#L12)*

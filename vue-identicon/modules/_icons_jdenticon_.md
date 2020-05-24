@@ -24,7 +24,7 @@
   },
   methods: {
     createSvgHtml: function (): void {
-      this.svgHtml = jdenticon.toSvg(this.publicKey.substr(2), this.size);
+      this.svgHtml = jdenticon.toSvg((this.publicKey as string).substr(2), this.size);
     }
   },
   props: ['publicKey', 'size'],
@@ -32,7 +32,7 @@
   template: `<div v-html="svgHtml" />`
 })
 
-*Defined in [icons/Jdenticon.ts:16](https://github.com/polkadot-js/ui/blob/b38301efa/packages/vue-identicon/src/icons/Jdenticon.ts#L16)*
+*Defined in [icons/Jdenticon.ts:16](https://github.com/polkadot-js/ui/blob/2df46e88c/packages/vue-identicon/src/icons/Jdenticon.ts#L16)*
 
 **`name`** Jdenticon
 
