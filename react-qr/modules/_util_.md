@@ -20,7 +20,7 @@
 
 ▸ **createAddressPayload**(`address`: string, `genesisHash`: string): *Uint8Array*
 
-*Defined in [util.ts:32](https://github.com/polkadot-js/ui/blob/2df46e88c/packages/react-qr/src/util.ts#L32)*
+*Defined in [util.ts:32](https://github.com/polkadot-js/ui/blob/9252de79d/packages/react-qr/src/util.ts#L32)*
 
 **Parameters:**
 
@@ -37,7 +37,7 @@ ___
 
 ▸ **createFrames**(`input`: Uint8Array): *Uint8Array[]*
 
-*Defined in [util.ts:46](https://github.com/polkadot-js/ui/blob/2df46e88c/packages/react-qr/src/util.ts#L46)*
+*Defined in [util.ts:47](https://github.com/polkadot-js/ui/blob/9252de79d/packages/react-qr/src/util.ts#L47)*
 
 **Parameters:**
 
@@ -53,7 +53,7 @@ ___
 
 ▸ **createImgSize**(`size?`: string | number): *Record‹string, string›*
 
-*Defined in [util.ts:66](https://github.com/polkadot-js/ui/blob/2df46e88c/packages/react-qr/src/util.ts#L66)*
+*Defined in [util.ts:67](https://github.com/polkadot-js/ui/blob/9252de79d/packages/react-qr/src/util.ts#L67)*
 
 **Parameters:**
 
@@ -67,9 +67,9 @@ ___
 
 ###  createSignPayload
 
-▸ **createSignPayload**(`address`: string, `cmd`: number, `payload`: string | Uint8Array): *Uint8Array*
+▸ **createSignPayload**(`address`: string, `cmd`: number, `payload`: string | Uint8Array, `genesisHash`: string | Uint8Array): *Uint8Array*
 
-*Defined in [util.ts:36](https://github.com/polkadot-js/ui/blob/2df46e88c/packages/react-qr/src/util.ts#L36)*
+*Defined in [util.ts:36](https://github.com/polkadot-js/ui/blob/9252de79d/packages/react-qr/src/util.ts#L36)*
 
 **Parameters:**
 
@@ -78,6 +78,7 @@ Name | Type |
 `address` | string |
 `cmd` | number |
 `payload` | string &#124; Uint8Array |
+`genesisHash` | string &#124; Uint8Array |
 
 **Returns:** *Uint8Array*
 
@@ -87,7 +88,7 @@ ___
 
 ▸ **decodeString**(`value`: Uint8Array): *string*
 
-*Defined in [util.ts:26](https://github.com/polkadot-js/ui/blob/2df46e88c/packages/react-qr/src/util.ts#L26)*
+*Defined in [util.ts:26](https://github.com/polkadot-js/ui/blob/9252de79d/packages/react-qr/src/util.ts#L26)*
 
 **Parameters:**
 
@@ -103,7 +104,7 @@ ___
 
 ▸ **encodeNumber**(`value`: number): *Uint8Array*
 
-*Defined in [util.ts:12](https://github.com/polkadot-js/ui/blob/2df46e88c/packages/react-qr/src/util.ts#L12)*
+*Defined in [util.ts:12](https://github.com/polkadot-js/ui/blob/9252de79d/packages/react-qr/src/util.ts#L12)*
 
 **Parameters:**
 
@@ -119,7 +120,7 @@ ___
 
 ▸ **encodeString**(`value`: string): *Uint8Array*
 
-*Defined in [util.ts:16](https://github.com/polkadot-js/ui/blob/2df46e88c/packages/react-qr/src/util.ts#L16)*
+*Defined in [util.ts:16](https://github.com/polkadot-js/ui/blob/9252de79d/packages/react-qr/src/util.ts#L16)*
 
 **Parameters:**
 
