@@ -19,20 +19,22 @@
     text: 'Default for the connected node',
     value: -1
   },
+  // keep as first (well, after default)
   {
     info: 'substrate',
-    text: 'Substrate (development)',
+    text: 'Substrate (generic)',
     value: 42
+  },
+  // all in ascending order based on value
+  {
+    info: 'polkadot',
+    text: 'Polkadot (live)',
+    value: 0
   },
   {
     info: 'kusama',
     text: 'Kusama (canary)',
     value: 2
-  },
-  {
-    info: 'polkadot',
-    text: 'Polkadot (live)',
-    value: 0
   },
   {
     info: 'edgeware',
@@ -41,7 +43,7 @@
   }
 ]
 
-*Defined in [defaults/ss58.ts:9](https://github.com/polkadot-js/ui/blob/9252de79d/packages/ui-settings/src/defaults/ss58.ts#L9)*
+*Defined in [defaults/ss58.ts:9](https://github.com/polkadot-js/ui/blob/990d4394a/packages/ui-settings/src/defaults/ss58.ts#L9)*
 
 ___
 
@@ -49,4 +51,4 @@ ___
 
 • **PREFIX_DEFAULT**: *-1* = -1
 
-*Defined in [defaults/ss58.ts:7](https://github.com/polkadot-js/ui/blob/9252de79d/packages/ui-settings/src/defaults/ss58.ts#L7)*
+*Defined in [defaults/ss58.ts:7](https://github.com/polkadot-js/ui/blob/990d4394a/packages/ui-settings/src/defaults/ss58.ts#L7)*
