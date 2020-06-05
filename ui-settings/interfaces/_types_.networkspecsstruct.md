@@ -23,7 +23,7 @@
 
 • **color**: *string*
 
-*Defined in [types.ts:25](https://github.com/polkadot-js/ui/blob/230999888/packages/ui-settings/src/types.ts#L25)*
+*Defined in [types.ts:25](https://github.com/polkadot-js/ui/blob/afa6950f0/packages/ui-settings/src/types.ts#L25)*
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 • **decimals**: *number*
 
-*Defined in [types.ts:26](https://github.com/polkadot-js/ui/blob/230999888/packages/ui-settings/src/types.ts#L26)*
+*Defined in [types.ts:26](https://github.com/polkadot-js/ui/blob/afa6950f0/packages/ui-settings/src/types.ts#L26)*
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 • **genesisHash**: *string*
 
-*Defined in [types.ts:27](https://github.com/polkadot-js/ui/blob/230999888/packages/ui-settings/src/types.ts#L27)*
+*Defined in [types.ts:27](https://github.com/polkadot-js/ui/blob/afa6950f0/packages/ui-settings/src/types.ts#L27)*
 
 ___
 
@@ -47,7 +47,7 @@ ___
 
 • **prefix**: *number*
 
-*Defined in [types.ts:28](https://github.com/polkadot-js/ui/blob/230999888/packages/ui-settings/src/types.ts#L28)*
+*Defined in [types.ts:28](https://github.com/polkadot-js/ui/blob/afa6950f0/packages/ui-settings/src/types.ts#L28)*
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 • **title**: *string*
 
-*Defined in [types.ts:29](https://github.com/polkadot-js/ui/blob/230999888/packages/ui-settings/src/types.ts#L29)*
+*Defined in [types.ts:29](https://github.com/polkadot-js/ui/blob/afa6950f0/packages/ui-settings/src/types.ts#L29)*
 
 ___
 
@@ -63,4 +63,4 @@ ___
 
 • **unit**: *string*
 
-*Defined in [types.ts:30](https://github.com/polkadot-js/ui/blob/230999888/packages/ui-settings/src/types.ts#L30)*
+*Defined in [types.ts:30](https://github.com/polkadot-js/ui/blob/afa6950f0/packages/ui-settings/src/types.ts#L30)*
