@@ -14,7 +14,7 @@
 
 ▸ **circle**(`seeder`: [Seeder](_beachball_types_.md#seeder), `fill`: string, `diameter`: number, `count`: number): *Element*
 
-*Defined in [beachball/shape/circle.ts:11](https://github.com/polkadot-js/ui/blob/990d4394a/packages/ui-shared/src/icons/beachball/shape/circle.ts#L11)*
+*Defined in [beachball/shape/circle.ts:11](https://github.com/polkadot-js/ui/blob/230999888/packages/ui-shared/src/icons/beachball/shape/circle.ts#L11)*
 
 **Parameters:**
 

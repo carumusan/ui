@@ -1,6 +1,6 @@
 [Polkadot JS UI libraries](../README.md) › [Globals](../globals.md) › ["Demo"](../modules/_demo_.md) › [Demo](_demo_.demo.md)
 
-# Class: Demo <**P, S, SS**>
+# Class: Demo ‹**P, S, SS**›
 
 ## Type parameters
 
@@ -329,7 +329,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [packages/react-identicon/src/Demo.tsx:14](https://github.com/polkadot-js/ui/blob/990d4394a/packages/react-identicon/src/Demo.tsx#L14)*
+*Defined in [packages/react-identicon/src/Demo.tsx:14](https://github.com/polkadot-js/ui/blob/230999888/packages/react-identicon/src/Demo.tsx#L14)*
 
 **Returns:** *React.ReactNode*
 
