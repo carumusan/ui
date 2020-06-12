@@ -13,6 +13,7 @@
 * [CMD_SIGN_TX_HASH](_constants_.md#const-cmd_sign_tx_hash)
 * [CRYPTO_SR25519](_constants_.md#const-crypto_sr25519)
 * [FRAME_SIZE](_constants_.md#const-frame_size)
+* [SEED_PREFIX](_constants_.md#const-seed_prefix)
 * [SUBSTRATE_ID](_constants_.md#const-substrate_id)
 
 ## Variables
@@ -21,7 +22,7 @@
 
 • **ADDRESS_PREFIX**: *"substrate"* = "substrate"
 
-*Defined in [constants.ts:5](https://github.com/polkadot-js/ui/blob/afa6950f0/packages/react-qr/src/constants.ts#L5)*
+*Defined in [constants.ts:5](https://github.com/polkadot-js/ui/blob/c7bf1d2ec/packages/react-qr/src/constants.ts#L5)*
 
 ___
 
@@ -29,7 +30,7 @@ ___
 
 • **CMD_SIGN_IMMORTAL_TX**: *Uint8Array‹›* = new Uint8Array([2])
 
-*Defined in [constants.ts:11](https://github.com/polkadot-js/ui/blob/afa6950f0/packages/react-qr/src/constants.ts#L11)*
+*Defined in [constants.ts:12](https://github.com/polkadot-js/ui/blob/c7bf1d2ec/packages/react-qr/src/constants.ts#L12)*
 
 ___
 
@@ -37,7 +38,7 @@ ___
 
 • **CMD_SIGN_MSG**: *Uint8Array‹›* = new Uint8Array([3])
 
-*Defined in [constants.ts:12](https://github.com/polkadot-js/ui/blob/afa6950f0/packages/react-qr/src/constants.ts#L12)*
+*Defined in [constants.ts:13](https://github.com/polkadot-js/ui/blob/c7bf1d2ec/packages/react-qr/src/constants.ts#L13)*
 
 ___
 
@@ -45,7 +46,7 @@ ___
 
 • **CMD_SIGN_TX**: *Uint8Array‹›* = new Uint8Array([0])
 
-*Defined in [constants.ts:9](https://github.com/polkadot-js/ui/blob/afa6950f0/packages/react-qr/src/constants.ts#L9)*
+*Defined in [constants.ts:10](https://github.com/polkadot-js/ui/blob/c7bf1d2ec/packages/react-qr/src/constants.ts#L10)*
 
 ___
 
@@ -53,7 +54,7 @@ ___
 
 • **CMD_SIGN_TX_HASH**: *Uint8Array‹›* = new Uint8Array([1])
 
-*Defined in [constants.ts:10](https://github.com/polkadot-js/ui/blob/afa6950f0/packages/react-qr/src/constants.ts#L10)*
+*Defined in [constants.ts:11](https://github.com/polkadot-js/ui/blob/c7bf1d2ec/packages/react-qr/src/constants.ts#L11)*
 
 ___
 
@@ -61,7 +62,7 @@ ___
 
 • **CRYPTO_SR25519**: *Uint8Array‹›* = new Uint8Array([0x01])
 
-*Defined in [constants.ts:8](https://github.com/polkadot-js/ui/blob/afa6950f0/packages/react-qr/src/constants.ts#L8)*
+*Defined in [constants.ts:9](https://github.com/polkadot-js/ui/blob/c7bf1d2ec/packages/react-qr/src/constants.ts#L9)*
 
 ___
 
@@ -69,7 +70,15 @@ ___
 
 • **FRAME_SIZE**: *1024* = 1024
 
-*Defined in [constants.ts:6](https://github.com/polkadot-js/ui/blob/afa6950f0/packages/react-qr/src/constants.ts#L6)*
+*Defined in [constants.ts:7](https://github.com/polkadot-js/ui/blob/c7bf1d2ec/packages/react-qr/src/constants.ts#L7)*
+
+___
+
+### `Const` SEED_PREFIX
+
+• **SEED_PREFIX**: *"secret"* = "secret"
+
+*Defined in [constants.ts:6](https://github.com/polkadot-js/ui/blob/c7bf1d2ec/packages/react-qr/src/constants.ts#L6)*
 
 ___
 
@@ -77,4 +86,4 @@ ___
 
 • **SUBSTRATE_ID**: *Uint8Array‹›* = new Uint8Array([0x53])
 
-*Defined in [constants.ts:7](https://github.com/polkadot-js/ui/blob/afa6950f0/packages/react-qr/src/constants.ts#L7)*
+*Defined in [constants.ts:8](https://github.com/polkadot-js/ui/blob/c7bf1d2ec/packages/react-qr/src/constants.ts#L8)*
