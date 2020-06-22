@@ -42,7 +42,7 @@
 
 *Inherited from [Demo](_demo_.demo.md).[UNSAFE_componentWillMount](_demo_.demo.md#optional-unsafe_componentwillmount)*
 
-Defined in node_modules/@types/react/index.d.ts:709
+Defined in node_modules/@types/react/index.d.ts:710
 
 Called immediately before mounting occurs, and before `Component#render`.
 Avoid introducing any side-effects or subscriptions in this method.
@@ -68,7 +68,7 @@ ___
 
 *Inherited from [Demo](_demo_.demo.md).[UNSAFE_componentWillReceiveProps](_demo_.demo.md#optional-unsafe_componentwillreceiveprops)*
 
-Defined in node_modules/@types/react/index.d.ts:741
+Defined in node_modules/@types/react/index.d.ts:742
 
 Called when the component may be receiving new props.
 React may call this even if props have not changed, so be sure to compare new and existing
@@ -104,7 +104,7 @@ ___
 
 *Inherited from [Demo](_demo_.demo.md).[UNSAFE_componentWillUpdate](_demo_.demo.md#optional-unsafe_componentwillupdate)*
 
-Defined in node_modules/@types/react/index.d.ts:769
+Defined in node_modules/@types/react/index.d.ts:770
 
 Called immediately before rendering when new props or state is received. Not called for the initial render.
 
@@ -139,7 +139,7 @@ ___
 
 *Inherited from [Demo](_demo_.demo.md).[componentDidCatch](_demo_.demo.md#optional-componentdidcatch)*
 
-Defined in node_modules/@types/react/index.d.ts:638
+Defined in node_modules/@types/react/index.d.ts:639
 
 Catches exceptions generated in descendant components. Unhandled exceptions will cause
 the entire component tree to unmount.
@@ -161,7 +161,7 @@ ___
 
 *Inherited from [Demo](_demo_.demo.md).[componentDidMount](_demo_.demo.md#optional-componentdidmount)*
 
-Defined in node_modules/@types/react/index.d.ts:617
+Defined in node_modules/@types/react/index.d.ts:618
 
 Called immediately after a component is mounted. Setting state here will trigger re-rendering.
 
@@ -175,7 +175,7 @@ ___
 
 *Inherited from [Demo](_demo_.demo.md).[componentDidUpdate](_demo_.demo.md#optional-componentdidupdate)*
 
-Defined in node_modules/@types/react/index.d.ts:680
+Defined in node_modules/@types/react/index.d.ts:681
 
 Called immediately after updating occurs. Not called for the initial render.
 
@@ -199,7 +199,7 @@ ___
 
 *Inherited from [Demo](_demo_.demo.md).[componentWillMount](_demo_.demo.md#optional-componentwillmount)*
 
-Defined in node_modules/@types/react/index.d.ts:695
+Defined in node_modules/@types/react/index.d.ts:696
 
 Called immediately before mounting occurs, and before `Component#render`.
 Avoid introducing any side-effects or subscriptions in this method.
@@ -223,7 +223,7 @@ ___
 
 *Inherited from [Demo](_demo_.demo.md).[componentWillReceiveProps](_demo_.demo.md#optional-componentwillreceiveprops)*
 
-Defined in node_modules/@types/react/index.d.ts:724
+Defined in node_modules/@types/react/index.d.ts:725
 
 Called when the component may be receiving new props.
 React may call this even if props have not changed, so be sure to compare new and existing
@@ -257,7 +257,7 @@ ___
 
 *Inherited from [Demo](_demo_.demo.md).[componentWillUnmount](_demo_.demo.md#optional-componentwillunmount)*
 
-Defined in node_modules/@types/react/index.d.ts:633
+Defined in node_modules/@types/react/index.d.ts:634
 
 Called immediately before a component is destroyed. Perform any necessary cleanup in this method, such as
 cancelled network requests, or cleaning up any DOM elements created in `componentDidMount`.
@@ -272,7 +272,7 @@ ___
 
 *Inherited from [Demo](_demo_.demo.md).[componentWillUpdate](_demo_.demo.md#optional-componentwillupdate)*
 
-Defined in node_modules/@types/react/index.d.ts:754
+Defined in node_modules/@types/react/index.d.ts:755
 
 Called immediately before rendering when new props or state is received. Not called for the initial render.
 
@@ -305,7 +305,7 @@ ___
 
 *Inherited from [Demo](_demo_.demo.md).[getSnapshotBeforeUpdate](_demo_.demo.md#optional-getsnapshotbeforeupdate)*
 
-Defined in node_modules/@types/react/index.d.ts:674
+Defined in node_modules/@types/react/index.d.ts:675
 
 Runs before React applies the result of `render` to the document, and
 returns an object to be given to componentDidUpdate. Useful for saving
@@ -329,7 +329,7 @@ ___
 
 ▸ **render**(): *React.ReactNode*
 
-*Defined in [packages/react-identicon/src/Demo.tsx:14](https://github.com/polkadot-js/ui/blob/e14228471/packages/react-identicon/src/Demo.tsx#L14)*
+*Defined in [packages/react-identicon/src/Demo.tsx:14](https://github.com/polkadot-js/ui/blob/47fa7f9f0/packages/react-identicon/src/Demo.tsx#L14)*
 
 **Returns:** *React.ReactNode*
 
@@ -341,7 +341,7 @@ ___
 
 *Inherited from [Demo](_demo_.demo.md).[shouldComponentUpdate](_demo_.demo.md#optional-shouldcomponentupdate)*
 
-Defined in node_modules/@types/react/index.d.ts:628
+Defined in node_modules/@types/react/index.d.ts:629
 
 Called to determine whether the change in props and state should trigger a re-render.
 
