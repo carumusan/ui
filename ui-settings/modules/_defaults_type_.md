@@ -14,4 +14,4 @@
 
 • **isPolkadot**: *boolean* = typeof window !== 'undefined' && window.location.host.includes('polkadot')
 
-*Defined in [defaults/type.ts:6](https://github.com/polkadot-js/ui/blob/47fa7f9f0/packages/ui-settings/src/defaults/type.ts#L6)*
+*Defined in [defaults/type.ts:6](https://github.com/polkadot-js/ui/blob/25d9da314/packages/ui-settings/src/defaults/type.ts#L6)*
