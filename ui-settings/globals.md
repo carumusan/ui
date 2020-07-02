@@ -6,12 +6,12 @@
 
 ### Modules
 
-* ["Settings"](modules/_settings_.md)
-* ["defaults/chains"](modules/_defaults_chains_.md)
-* ["defaults/crypto"](modules/_defaults_crypto_.md)
-* ["defaults/endpoints"](modules/_defaults_endpoints_.md)
-* ["defaults/ledger"](modules/_defaults_ledger_.md)
-* ["defaults/ss58"](modules/_defaults_ss58_.md)
-* ["defaults/type"](modules/_defaults_type_.md)
-* ["defaults/ui"](modules/_defaults_ui_.md)
-* ["types"](modules/_types_.md)
+* ["packages/ui-settings/src/Settings"](modules/_packages_ui_settings_src_settings_.md)
+* ["packages/ui-settings/src/defaults/chains"](modules/_packages_ui_settings_src_defaults_chains_.md)
+* ["packages/ui-settings/src/defaults/crypto"](modules/_packages_ui_settings_src_defaults_crypto_.md)
+* ["packages/ui-settings/src/defaults/endpoints"](modules/_packages_ui_settings_src_defaults_endpoints_.md)
+* ["packages/ui-settings/src/defaults/ledger"](modules/_packages_ui_settings_src_defaults_ledger_.md)
+* ["packages/ui-settings/src/defaults/ss58"](modules/_packages_ui_settings_src_defaults_ss58_.md)
+* ["packages/ui-settings/src/defaults/type"](modules/_packages_ui_settings_src_defaults_type_.md)
+* ["packages/ui-settings/src/defaults/ui"](modules/_packages_ui_settings_src_defaults_ui_.md)
+* ["packages/ui-settings/src/types"](modules/_packages_ui_settings_src_types_.md)
