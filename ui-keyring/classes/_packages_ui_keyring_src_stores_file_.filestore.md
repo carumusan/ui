@@ -29,7 +29,7 @@
 
 \+ **new FileStore**(`path`: string): *[FileStore](_packages_ui_keyring_src_stores_file_.filestore.md)*
 
-*Defined in [packages/ui-keyring/src/stores/File.ts:14](https://github.com/polkadot-js/ui/blob/43da3b50d/packages/ui-keyring/src/stores/File.ts#L14)*
+*Defined in [packages/ui-keyring/src/stores/File.ts:14](https://github.com/polkadot-js/ui/blob/245247016/packages/ui-keyring/src/stores/File.ts#L14)*
 
 **Parameters:**
 
@@ -45,7 +45,7 @@ Name | Type |
 
 ▸ **all**(`cb`: function): *void*
 
-*Defined in [packages/ui-keyring/src/stores/File.ts:24](https://github.com/polkadot-js/ui/blob/43da3b50d/packages/ui-keyring/src/stores/File.ts#L24)*
+*Defined in [packages/ui-keyring/src/stores/File.ts:24](https://github.com/polkadot-js/ui/blob/245247016/packages/ui-keyring/src/stores/File.ts#L24)*
 
 **Parameters:**
 
@@ -68,7 +68,7 @@ ___
 
 ▸ **get**(`key`: string, `cb`: function): *void*
 
-*Defined in [packages/ui-keyring/src/stores/File.ts:35](https://github.com/polkadot-js/ui/blob/43da3b50d/packages/ui-keyring/src/stores/File.ts#L35)*
+*Defined in [packages/ui-keyring/src/stores/File.ts:35](https://github.com/polkadot-js/ui/blob/245247016/packages/ui-keyring/src/stores/File.ts#L35)*
 
 **Parameters:**
 
@@ -92,7 +92,7 @@ ___
 
 ▸ **remove**(`key`: string, `cb?`: undefined | function): *void*
 
-*Defined in [packages/ui-keyring/src/stores/File.ts:43](https://github.com/polkadot-js/ui/blob/43da3b50d/packages/ui-keyring/src/stores/File.ts#L43)*
+*Defined in [packages/ui-keyring/src/stores/File.ts:43](https://github.com/polkadot-js/ui/blob/245247016/packages/ui-keyring/src/stores/File.ts#L43)*
 
 **Parameters:**
 
@@ -109,7 +109,7 @@ ___
 
 ▸ **set**(`key`: string, `value`: [KeyringJson](../interfaces/_packages_ui_keyring_src_types_.keyringjson.md), `cb?`: undefined | function): *void*
 
-*Defined in [packages/ui-keyring/src/stores/File.ts:48](https://github.com/polkadot-js/ui/blob/43da3b50d/packages/ui-keyring/src/stores/File.ts#L48)*
+*Defined in [packages/ui-keyring/src/stores/File.ts:48](https://github.com/polkadot-js/ui/blob/245247016/packages/ui-keyring/src/stores/File.ts#L48)*
 
 **Parameters:**
 
